@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">vcard</string>
+
+
+    <!-- URL BASICO SO ATE AO /api/ -->
+    <string name="url">https://0f08-2001-818-e982-f200-ca4-294a-4a1d-b8cf.ngrok.io/api/</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

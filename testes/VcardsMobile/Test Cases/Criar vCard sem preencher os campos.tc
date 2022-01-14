@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Criar vCard sem preencher os campos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e1e72a8-0ac7-474e-b683-52042e1e4bcc</testCaseGuid>
+</TestCaseEntity>
